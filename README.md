@@ -28,6 +28,7 @@ With this chalenge, we proved that we are :
 - Situation: 3rd week of the BeCode's formation about AI and Machine learning
 
 **Updates**
+
 10/09/20 : A real README, at last.
 
 
