@@ -4,9 +4,9 @@ The purpose of this code is to retrieve precise information about houses and apa
 
 ### Who
 For this first group project, we were 3 :
-- [https://github.com/leersmathieu] (#Mathieu Leers)
-- [https://github.com/mpietquin] (#Michaël Pietquin) 
-- [https://github.com/Demesmaeker] (#Demesmaeker Morgane) 
+- (https://github.com/leersmathieu) [#Mathieu Leers]
+- (https://github.com/mpietquin) [#Michaël Pietquin]
+- (https://github.com/Demesmaeker) [#Demesmaeker Morgane]
 
 
 ### Methodology
