@@ -32,7 +32,7 @@ With this chalenge, we proved that we are :
 10/09/20 : A real README, at last.
 
 
-### Where and what
+### Where
 All the work done was made during the BeCode's AI's formation 2020-2021.
 
 
