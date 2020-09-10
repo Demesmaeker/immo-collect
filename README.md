@@ -4,9 +4,9 @@ The purpose of this code is to retrieve precise information about houses and apa
 
 ### Who
 For this first group project, we were 3 :
-- [https://github.com/leersmathieu](#Mathieu Leers)
-- [https://github.com/mpietquin](#Michaël Pietquin) 
-- [https://github.com/Demesmaeker](#Demesmaeker Morgane) 
+- [https://github.com/leersmathieu] (#Mathieu Leers)
+- [https://github.com/mpietquin] (#Michaël Pietquin) 
+- [https://github.com/Demesmaeker] (#Demesmaeker Morgane) 
 
 
 ### Methodology
@@ -26,6 +26,7 @@ With this chalenge, we proved that we are :
 - Deadline: 07/09/2020 17:00
 - Duration: 3 days
 - Situation: 3rd week of the BeCode's formation about AI and Machine learning
+
 **Updates**
 10/09/20 : A real README, at last.
 
